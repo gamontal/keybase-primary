@@ -41,7 +41,7 @@ $ keybase-primary --help
 
 ## Related
 
-- [keybase-user](https://github.com/sindresorhus/npm-keyword) - Get user info of a Keybase user
+- [keybase-user](https://github.com/gmontalvoriv/keybase-user) - Get user info of a Keybase user
 
 ## License
 
