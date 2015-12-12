@@ -1,0 +1,39 @@
+{
+  "name": "keybase-primary",
+  "version": "1.0.0",
+  "description": "Get the primary public key of a Keybase user",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmontalvoriv/keybase-primary.git"
+  },
+  "keywords": [
+    "cli-app",
+    "cli",
+    "bin",
+    "keybase",
+    "json",
+    "user",
+    "username"
+  ],
+  "author": "Gabriel Montalvo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmontalvoriv/keybase-primary/issues"
+  },
+  "homepage": "https://github.com/gmontalvoriv/keybase-primary#readme",
+  "dependencies": {
+    "meow": "^3.6.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "ava": "^0.7.0"
+  }
+}
