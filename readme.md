@@ -1,3 +1,5 @@
+## ⚠️ This repository is no longer maintained.
+
 # keybase-primary [![Build Status](https://travis-ci.org/gmontalvoriv/keybase-primary.svg)](https://travis-ci.org/gmontalvoriv/keybase-primary)
 
 > Get the primary public key of a Keybase user
